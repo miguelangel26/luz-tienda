@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Flor de mata",
+        "imagen": "https://1.bp.blogspot.com/-M9Z7fAjBHdY/XrWWWjMukNI/AAAAAAAAcxU/MdQnddQyL7sVePgvm9Ui9rY1qy-7lvhDQCLcBGAsYHQ/s1600/rosas-crochet0.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 100
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Flor Berraco",
+        "imagen": "https://i.pinimg.com/originals/f6/0f/df/f60fdfcc3e2cbdf9764022a312d95469.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Flor Puneño",
+        "imagen": "https://i.pinimg.com/originals/e4/29/5b/e4295b3aa82f4706a1a5b73e1e9abc09.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Flor Serrano",
+        "imagen": "https://i.pinimg.com/originals/2e/18/32/2e1832ef9ff0c20ed68ac21cbdf237c5.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Flor Silvestre",
+        "imagen": "https://i.pinimg.com/originals/96/b7/5e/96b75e19743587c942f75253ccbc539b.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 300
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Peluche",
+        "imagen": "https://i.pinimg.com/736x/d4/6c/11/d46c11f1eb329ecf73ec43ce4e6479b7.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 80
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Peluche Tejido",
+        "imagen": "https://th.bing.com/th/id/R.6338972ee1af8865633e25654a26ff31?rik=wphSxz4os2%2fPAw&pid=ImgRaw&r=0",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 300
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Peluche Tejido",
+        "imagen": "https://i.pinimg.com/736x/ab/3e/09/ab3e0961a7978b02fd8eb813fb61109f.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Peluche Tejido",
+        "imagen": "https://i.pinimg.com/originals/17/e5/67/17e567db7df1148c3b855808dfd38655.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Peluche Tejido",
+        "imagen": "https://i0.wp.com/www.amorecraftylife.com/wp-content/uploads/2019/05/big-plush-teddy-bear-crochet-pattern-amigurumi.jpg?w=780&ssl=1",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Peluche Tejido",
+        "imagen": "https://www.astucesdefilles.com/storage/2021/12/20-top-idees-damigurumi-au-crochet-18.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 300
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Peluche Tejido",
+        "imagen": "https://freeamigurumi.vasat.net/wp-content/uploads/2022/11/Amigurumi-Bear-Free-Crochet-Pattern5-1.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 600
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Peluche Tejido",
+        "imagen": "https://th.bing.com/th/id/OIP.xHdSIo0JeXZErlpTwV8bXwHaJ4?w=1304&h=1739&rs=1&pid=ImgDetMain",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Chompa",
+        "imagen": "https://i.pinimg.com/originals/29/70/d5/2970d553a1abd9e5c0ad32c6c71dc2f4.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Conjunto",
+        "imagen": "https://knittingcrochetlove.com/wp-content/uploads/2018/03/Knitted-baby-dress-vest-cardigan-sweater-overalls-patterns-359.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 800
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Conjunto",
+        "imagen": "https://i.pinimg.com/originals/80/5c/ae/805cae6305d9c16e6bf6ee336116bba8.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 250
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Conjunto",
+        "imagen": "https://i.pinimg.com/originals/77/d7/9d/77d79d889406f273e2d168a34ec30286.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 180
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Conjunto",
+        "imagen": "https://ourlifewithreborns.com/wp-content/uploads/2019/01/olwr4-64.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 120
+    }
+]
